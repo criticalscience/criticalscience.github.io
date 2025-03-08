@@ -13,12 +13,16 @@
       rel="stylesheet"
       href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"
     >
+    <link rel="icon" href="{{ site.favicon | relative_url }}" type="image/x-icon">
     <!--{% feed_meta %}-->
     <script defer src="https://use.fontawesome.com/releases/v6.5.2/js/all.js"></script>
     <script src="/assets/js/navbar-burger.js"></script>
     {% seo %}
   </head>
   <body>
+		{% if site.hero_image %}
+			{% include hero.html %}
+		{% endif %}
     {% include navigation.html icon-size="lg" %}
     <section class="section">
       <div class="container">
