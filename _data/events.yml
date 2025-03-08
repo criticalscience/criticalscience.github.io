@@ -1,0 +1,14 @@
+- id: dummy-one
+  name: An example of an event
+  description: A dummy description of the event.
+  date: 2024-03-08
+
+- id: dummy-two
+  name: Another example of an event
+  description: Another dummy description of the event.
+  date: 2024-06-17
+
+- id: dummy-three
+  name: An example of an event in the future
+  description: And yet another dummy description of the event.
+  date: 2025-04-23
