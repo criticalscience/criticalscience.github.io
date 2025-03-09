@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-image: /assets/images/home.png
+image: /assets/images/cycle.png
 show_news: true
 ---
 Lorem ipsum dolor sit amet. 
