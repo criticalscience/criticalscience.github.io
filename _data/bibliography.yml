@@ -1,0 +1,166 @@
+- title: Picture a Scientist
+  authors:
+    - Sharon Shattuck
+    - Ian Cheney
+  year: 2020
+  tags:
+    - tag: Wikipedia
+      link: https://en.wikipedia.org/wiki/Picture_a_Scientist
+    - tag: Official website
+      link: https://www.pictureascientist.com/
+
+- title: The Deep Sociality of Science. Understanding Science as a Cooperative Process
+  authors:
+    - Jessica A. F. Thompson
+  publisher: "Science for the People Magazine. Volume 24, No. 3. Cooperation: Theory and Practice for the Commons"
+  year: 2021
+  tags:
+    - tag: Science for the People
+      link: https://magazine.scienceforthepeople.org/vol24-3-cooperation/the-deep-sociality-of-science/
+
+- title: "Science as Social Knowledge: : Values and Objectivity in Scientific Inquiry"
+  authors:
+    - Helen Longino
+  publisher: Princeton University Press
+  year: 1990
+  tags:
+    - tag: JSTOR
+      link: https://www.jstor.org/stable/j.ctvx5wbfz
+
+- title: "Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence"
+  authors:
+    - Kate Crawford
+  publisher: Yale University Press
+  year: 2021
+  tags:
+    - tag: Wikipedia
+      link: https://en.wikipedia.org/wiki/Atlas_of_AI
+
+- title: "Race After Technology: Abolitionist Tools for the New Jim Code"
+  authors:
+    - Ruha Benjamin
+  publisher: Polity
+  year: 2019
+  tags:
+    - tag: Wikipedia
+      link: https://en.wikipedia.org/wiki/Race_After_Technology
+
+- title: "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants"
+  authors:
+    - Robin Wall Kimmerer
+  publisher: Milkweed Editions
+  year: 2013
+  tags:
+    - tag: Wikipedia
+      link: https://en.wikipedia.org/wiki/Braiding_Sweetgrass
+
+- title: "The Death of Nature: Women, Ecology and the Scientific Revolution"
+  authors:
+    - Carolyn Merchant
+  publisher: Harper & Row
+  year: 1980
+  tags:
+    - tag: Wikipedia
+      link: https://en.wikipedia.org/wiki/The_Death_of_Nature
+
+- title: "The Dialectical Biologist"
+  authors:
+    - Richard Levins
+    - Richard Lewontin
+  publisher: Harvard University Press
+  year: 1985
+  tags:
+    - tag: Wikipedia
+      link: https://en.wikipedia.org/wiki/The_Dialectical_Biologist
+
+- title: "Biology as Ideology: The Doctrine of DNA"
+  authors:
+    - Richard Lewontin
+  publisher: Harper Perennial
+  year: 1993
+  tags:
+    - tag: Review by Kulyash Zhumadilova in SftP
+      link: https://magazine.scienceforthepeople.org/lewontin-special-issue/biology-as-ideology-review/
+
+- title: "Can neuroscience change our minds?"
+  authors:
+    - Hilary Rose
+    - Steven Rose
+  publisher: Polity
+  year: 2016
+  tags:
+    - tag: archive.org
+      link: https://archive.org/details/canneurosciencec0000rose/page/n5/mode/2up
+
+- title: "The myth of apolitical science"
+  authors:
+    - Alex Wellerstein
+  publisher: Science
+  year: 2018
+  tags:
+    - tag: Science
+      link: https://www.science.org/doi/10.1126/science.aav4900
+
+- title: "Richard Lewontin, Dialectical Materialism, the Relationship Between Evolutionary Biology and Marxism"
+  authors:
+    - Erik I. Svensson
+  publisher: "Science for the People Magazine. Lewontin Memorial Collection"
+  year: 2021
+  tags:
+    - tag: Science for the People
+      link: https://magazine.scienceforthepeople.org/lewontin-special-issue/richard-lewontin-dialectical-materialism-the-relationship-between-evolutionary-biology-and-marxism/
+
+- title: "The Folly of Apolitical Science"
+  authors:
+    - Johnathan Flowers
+  publisher: Bioethics Today
+  year: 2021
+  tags:
+    - tag: Online
+      link: https://bioethicstoday.org/blog/the-folly-of-apolitical-science/
+
+- title: "Yes, Science Is Political"
+  authors:
+    - Alyssa Shearer
+    - Ingrid Joylyn Paredes
+    - Tiara Ahmad
+    - Christopher Jackson
+  publisher: Scientific American
+  year: 2020
+  tags:
+    - tag: Online
+      link: https://www.scientificamerican.com/article/yes-science-is-political/
+
+- title: "Stick to the science: when science gets political"
+  authors:
+    - Nick Howe
+  publisher: Nature
+  year: 2020
+  tags:
+    - tag: Podcast
+      link: https://www.nature.com/articles/d41586-020-03067-w
+
+- title: "Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence"
+  authors:
+    - Shakir Mohamed
+    - Marie-Therese Png
+    - William Isaac
+  publisher: Philosophy and Technology
+  year: 2020
+  tags:
+    - tag: arXiv
+      link: https://arxiv.org/abs/2007.04068
+
+- title: "The Values Encoded in Machine Learning Research"
+  authors:
+    - Abeba Birhane
+    - Pratyusha Kalluri
+    - Dallas Card
+    - William Agnew
+    - Ravit Dotan
+    - Michelle Bao
+  publisher: Conference on Fairness, Accountability, and Transparency
+  year: 2022
+  tags:
+    - tag: Online
+      link: https://dl.acm.org/doi/abs/10.1145/3531146.3533083
