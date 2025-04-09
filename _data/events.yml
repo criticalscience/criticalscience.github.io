@@ -1,14 +1,12 @@
-- id: dummy-one
-  name: An example of an event
-  description: A dummy description of the event.
-  date: 2024-03-08
+- id: no-tech-for-apartheid
+  name: Tech enabled systematic violation of human rights in the Middle East
+  date: 2024-03-22
+  materials:
+    - NoTechForApartheid - Panel discussion
+    - NoTechForApartheid - Blog post by Timnit Gebru
 
-- id: dummy-two
-  name: Another example of an event
-  description: Another dummy description of the event.
-  date: 2024-06-17
-
-- id: dummy-three
-  name: An example of an event in the future
-  description: And yet another dummy description of the event.
-  date: 2025-04-23
+- id: un-perspectives-militarisation
+  name: UN's perspective on AI militarisation and its implications in the world
+  date: 2024-04-05
+  materials:
+    - Artificial Intelligence Beyond Weapons

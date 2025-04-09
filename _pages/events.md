@@ -27,6 +27,7 @@ There are not currently any planned events. Stay tuned!
 {% endif %}
 
 ## In the past
+The list of past events is still incomplete.
 {% assign events = past_events | sort: 'date' | reverse %}
 {% for event in events %}
   {% include event.html %}
