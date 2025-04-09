@@ -4,14 +4,6 @@ title: Home
 image: /assets/images/cycle.png
 show_news: true
 ---
-Lorem ipsum dolor sit amet. 
+Mila’s stated mission is "to be a global pole for scientific advances that inspires innovation and the progress of AI for the benefit of all" and its foundational values include "ethics" and "social conscience". The Critical Science reading group seeks to further these goals by applying ideas from critical theory---a philosophical perspective that analyses and critiques power imbalances in society. As scientists with a critical mindset, we wonder how AI development and science in general can really serve all people and what values truly underpin our field and academic structures at large.
 
-#### One Section
-[Lorem ipsum dolor sit amet](https://www.lipsum.com/), consectetur adipiscing elit. Nunc dui velit, interdum ac justo sit amet, pulvinar fermentum sem. Suspendisse in sem in odio venenatis rhoncus. Vivamus accumsan tristique est at dictum. Sed ornare enim vitae vehicula blandit. Pellentesque ex elit, elementum nec sem vel, pretium feugiat dui. Nullam interdum vitae diam et ultrices. Phasellus sollicitudin erat non ligula maximus tempor eu a turpis. Cras ac magna faucibus, faucibus arcu in, varius neque. Sed molestie finibus cursus. Mauris egestas id mi ac congue. Ut placerat felis egestas est dapibus, eu rutrum dolor iaculis. 
-
-
-#### Another Section
-Donec et vulputate velit. Praesent id tortor ac risus sodales bibendum sed condimentum arcu. Sed ante metus, consequat ac nulla nec, suscipit pharetra mi. Aliquam porttitor, erat at aliquet luctus, justo urna facilisis tellus, at fermentum nisl dolor eu mauris. Etiam tristique nunc nulla, a pharetra arcu iaculis a. Pellentesque posuere urna non mi malesuada, ac sodales nulla molestie. Aliquam erat volutpat. Sed dictum libero eros, at finibus felis auctor a. Ut nibh turpis, rutrum sit amet pretium id, placerat vitae libero. Etiam faucibus lacus neque, eget ultrices felis commodo nec. Proin viverra neque ut ligula commodo suscipit. 
-
-#### Contact
-firstname.lastname _at_ [e.email](https://e.foundation/)
+We view this reading group, Critical Science, as the natural evolution of the Against Military AI reading group. Here, we intend to expand our critical examination of the interconnections between science and society at large. While keeping the links between AI and the military a core topic, we would like to acquire a broader perspective and explore other topics too, such as the multiple ways in which corporate greed and antidemocratic governance systems influence AI research to benefit a select few, at the expense of society at large. We also want to look deeper, and critically study the assumptions and values that underpin the ways we do science, the questions we ask ourselves and how we seek answers. To this purpose, we intend to educate ourselves by reading philosophy of science and the works of critical scientists in other fields and times who have addressed similar questions.
