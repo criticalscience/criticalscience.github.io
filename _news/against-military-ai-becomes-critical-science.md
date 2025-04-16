@@ -1,5 +1,5 @@
 ---
-date: 2025-04-09
+date: 2025-04-17
 title: Against Military AI becomes Critical Science
 layout: page
 ---
