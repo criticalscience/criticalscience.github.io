@@ -27,7 +27,7 @@ There are not currently any planned events. Stay tuned!
 {% endif %}
 
 ## In the past
-The list of past events is still incomplete.
+The list of past events is still incomplete. In the meantime, you can see the complete list of past sessions on the previous page of the [Against Military AI Reading Group](https://sun-curtain-9a1.notion.site/Against-Military-AI-RG-e25479293a6041c7aabe399842bdf324).
 {% assign events = past_events | sort: 'date' | reverse %}
 {% for event in events %}
   {% include event.html %}
