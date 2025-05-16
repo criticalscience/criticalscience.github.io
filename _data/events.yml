@@ -16,3 +16,9 @@
   date: 2025-05-02
   materials:
     - "Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence"
+
+- id: values-encoded-in-ml
+  name: The Values Encoded in Machine Learning Research
+  date: 2025-05-16
+  materials:
+    - "The Values Encoded in Machine Learning Research"
