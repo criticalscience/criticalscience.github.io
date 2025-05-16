@@ -1,7 +1,7 @@
 ---
 date: 2025-04-17
 title: Against Military AI becomes Critical Science
-layout: page
+layout: news
 ---
 The Mila reading group Against Military AI will expand its range of topics and become the Critical Science reading group.
 
