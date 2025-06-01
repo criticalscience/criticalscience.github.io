@@ -5,6 +5,9 @@
   </span>
   <span><i>{{ event.date | date: "%B %e, %Y" }}</i></span>
   <br>
+  {% if event.description %}
+    <p>{{ event.description | markdownify }}</p>
+  {% endif %}
   {% if event.materials %}
     <ul>
      {% for item in event.materials %}
@@ -24,5 +27,4 @@
      {% endfor %}
     </ul>
   {% endif %}
-  <p>{{ event.description | markdownify }}</p>
 </div>
