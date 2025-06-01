@@ -6,11 +6,23 @@
   <span><i>{{ event.date | date: "%B %e, %Y" }}</i></span>
   <br>
   {% if event.materials %}
-   <ul>
-    {% for item in event.materials %}
-       <li>{{ item }}</li>
-    {% endfor %}
-   </ul> 
+    <ul>
+     {% for item in event.materials %}
+        <li>
+           {% if item.link %}
+             {% if item.type %}
+               <a class="tag" href="{{ item.link }}">{{ item.type }}</a>
+             {% endif %}
+             <a href="{{ item.link }}">{{ item.name }}</a>
+           {% else %}
+             {% if item.type %}
+               <span class="tag">{{ item.type }}</span>
+             {% endif %}
+             {{ item.name }}
+           {% endif %}
+        </li>
+     {% endfor %}
+    </ul>
   {% endif %}
   <p>{{ event.description | markdownify }}</p>
 

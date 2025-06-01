@@ -2,35 +2,43 @@
   name: Tech enabled systematic violation of human rights in the Middle East
   date: 2024-03-22
   materials:
-    - NoTechForApartheid - Panel discussion
-    - NoTechForApartheid - Blog post by Timnit Gebru
+    - name: NoTechForApartheid - Panel discussion
+    - name: NoTechForApartheid - Blog post by Timnit Gebru
 
 - id: un-perspectives-militarisation
   name: UN's perspective on AI militarisation and its implications in the world
   date: 2024-04-05
   materials:
-    - Artificial Intelligence Beyond Weapons
+    - name: Artificial Intelligence Beyond Weapons
 
 - id: decolonial-ai
   name: Introduction of the Critical Science Reading Group & Decolonial AI
   date: 2025-05-02
   materials:
-    - "Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence"
+    - name: "Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence"
+      link: https://arxiv.org/abs/2007.04068
+      type: Article
 
 - id: values-encoded-in-ml
   name: The Values Encoded in Machine Learning Research
   date: 2025-05-16
   materials:
-    - "The Values Encoded in Machine Learning Research"
+    - name: "The Values Encoded in Machine Learning Research"
+      link: https://dl.acm.org/doi/abs/10.1145/3531146.3533083
+      type: Article
 
 - id: great-transition
   name: Exploring roles for technology in radical theories of change
   date: 2025-05-30
   materials:
-    - "Talk: Exploring roles for technology in radical theories of change"
+    - name: "Exploring roles for technology in radical theories of change"
+      link: https://thegreattransition.net/schedule/
+      type: Special talk
     
 - id: military-moral
   name: Military Funds, Moral Demands
   date: 2025-06-13
   materials:
-    - "Military Funds, Moral Demands, Personal Responsibilities of the Individual Scientist"
+    - name: "Military Funds, Moral Demands, Personal Responsibilities of the Individual Scientist"
+      link: https://sci-hub.st/https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.1989.tb15057.x
+      type: Article
