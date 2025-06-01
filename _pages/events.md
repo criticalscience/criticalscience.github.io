@@ -16,6 +16,8 @@ permalink: /events
   {% endif %}
 {% endfor %}
 
+Currently, the sessions of the reading groups take place every other Friday at 16:00 at Mila.
+
 ## Coming up
 {% assign events = future_events | sort: 'date' %}
 {% if events.size == 0 %}
