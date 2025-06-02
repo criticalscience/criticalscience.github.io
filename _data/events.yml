@@ -2,14 +2,69 @@
   name: Tech enabled systematic violation of human rights in the Middle East
   date: 2024-03-22
   materials:
-    - name: NoTechForApartheid - Panel discussion
-    - name: NoTechForApartheid - Blog post by Timnit Gebru
+    - name: "NoTechForApartheid"
+      link: https://www.youtube.com/watch?v=QVrjA-5Ak0U
+      type: Video panel discussion
+    - name: "NoTechForApartheid, Timnit Gebru"
+      link: https://www.dair-institute.org/blog/NoTechForApartheid/
+      type: Blog post
 
 - id: un-perspectives-militarisation
   name: UN's perspective on AI militarisation and its implications in the world
   date: 2024-04-05
   materials:
-    - name: Artificial Intelligence Beyond Weapons
+    - name: "Artificial Intelligence Beyond Weapons: Application and Impact of AI in the Military Domain"
+      link: https://unidir.org/wp-content/uploads/2023/10/UNIDIR_AI_Beyond_Weapons_Application_Impact_AI_in_the_Military_Domain.pdf
+      type: UN Report
+
+- id: ai-assisted-targeting
+  name: AI-Assisted Targeting in the Military
+  date: 2024-04-19
+  materials:
+    - name: "U.S. Deploys AI-Assisted Targeting"
+      link: https://info.deeplearning.ai/one-agent-for-many-worlds-cross-species-cell-embeddings-u.s.-deploys-ai-targeting-robo-football-gets-real
+      type: Media article
+    - name: "‘A mass assassination factory’: Inside Israel’s calculated bombing of Gaza"
+      link: https://www.972mag.com/mass-assassination-factory-israel-calculated-bombing-gaza/
+      type: Media article
+    - name: "‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza"
+      link: https://www.972mag.com/lavender-ai-israeli-army-gaza/
+      type: Media article
+    - name: "Ukraine’s Homegrown Drones"
+      link: https://www.deeplearning.ai/the-batch/ukraines-drone-industry-takes-flight-amidst-conflict/
+      type: Media article
+
+- id: deepfakes
+  name: Deep Fakes in the Military
+  date: 2024-05-03
+  materials:
+    - name: "Do deepfake videos undermine our epistemic trust? A thematic analysis of tweets that discuss deepfakes in the Russian invasion of Ukraine"
+      link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291668
+      type: Article
+    - name: "AI: Voice cloning tech emerges in Sudan civil war"
+      link: https://www.bbc.com/news/world-africa-66987869#
+      type: Media article
+    - name: "Fake babies, real horror: Deepfakes from the Gaza war increase fears about AI’s power to mislead"
+      link: https://apnews.com/article/artificial-intelligence-hamas-israel-misinformation-ai-gaza-a1bb303b637ffbbb9cbc3aa1e000db47
+      type: Media article
+
+- id: diplomacy-weapons
+  name: Diplomatic Process on Autonomous Weapons Systems, Challenges, and Opportunities
+  date: 2024-05-13
+  description: This is a special session with two guest speakers, [Wanda Muñoz](https://wandamunoz.com/) and [Gisela Lujan Andrade](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGUs44fOr0FpQAAAZct9pBYGVPgiHzt135ZCVPwLEaKRaj0jys0zpXJqqeDW-JUk8RDQ73ZjRQ3rDq2i5h49JTi83VztkAjqcWmVk1RsHygVVugd5QYYhsC0SIs-o0mXeV7AlY=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiselalujanandrade%2F).
+  materials:
+    - name: "Autonomous weapons and deepfakes: the risks of the ongoing weaponization of ai and the urgent need for regulation"
+      link: https://unesdoc.unesco.org/in/documentViewer.xhtml?v=2.1.196&id=p::usmarcdef_0000384787&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_import_c75d935a-735f-435d-b54b-2a288c57da69%3F_%3D384787eng.pdf&locale=en&multi=true&ark=/ark:/48223/pf0000384787/PDF/384787eng.pdf#A14974_Mila_MissingLinksAI_8x10_AN_EP10.indd%3A.142603%3A1179
+      type: Report
+
+- id: montreal-declaration
+  name: Montreal Responsible AI Declaration
+  date: 2024-05-31
+  description: This is a special session with [Marc-Antoine Dilhac](https://mila.quebec/en/person/marc-antoine-dilhac/), lead author of Montreal Responsible AI Declaration, as guest speaker.
+  materials:
+    - name: "Montreal Responsible AI Declaration"
+      link: https://declarationmontreal-iaresponsable.com/wp-content/uploads/2023/04/UdeM_Decl-IA-Resp_LA-Declaration-ENG_WEB_09-07-19.pdf
+      type: Declaration
 
 - id: decolonial-ai
   name: Introduction of the Critical Science Reading Group & Decolonial AI
