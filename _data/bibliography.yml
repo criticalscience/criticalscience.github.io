@@ -219,4 +219,32 @@
   tags:
     - tag: Online
       link: https://nyaspubs.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1749-6632.1989.tb15057.x
-      
+
+
+- title: "Behavioral Use Licensing for Responsible AI"
+  authors:
+    - Danish Contractor, Daniel McDuff, Julia Katherine Haines, Jenny Lee, Christopher Hines, Brent Hecht, Nicholas Vincent, and Hanlin Li
+  publisher: ACM Conference on Fairness, Accountability, and Transparency (FAccT)
+  year: 2022
+  tags:
+    - tag: Online
+      link: https://dl.acm.org/doi/pdf/10.1145/3531146.3533143
+
+- title: "On the Standardization of Behavioral Use Clauses and Their Adoption for Responsible Licensing of AI"
+  authors: Daniel McDuff, Tim Korjakow, Scott Cambo, Jesse Josua Benjamin, Jenny Lee, Yacine Jernite
+Carlos Munoz Ferrandis, Aaron Gokaslan, Alek Tarkowski, Joseph Lindley, A. Feder Cooper, Danish Contractor
+  publisher: arXiv
+  year: 2024
+  tags:
+    - tag: arXiv
+      link: https://arxiv.org/pdf/2402.05979
+
+- title: "Responsible AI licenses: a practical tool for implementing the OECD Principles for Trustworthy AI"
+  authors: Carlos Muñoz Ferrandis
+  publisher: OECD.AI
+  year: 2022
+  tags:
+    - tag: Online
+      link: https://oecd.ai/en/wonk/rails-licenses-trustworthy-ai
+
+
