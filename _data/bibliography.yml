@@ -210,7 +210,6 @@
     - tag: Online
       link: https://www.nature.com/articles/d41586-020-02003-2
 
-
 - title: "Military Funds, Moral Demands, Personal Responsibilities of the Individual Scientist "
   authors:
     - Douglas P. Lackey 
@@ -219,7 +218,6 @@
   tags:
     - tag: Online
       link: https://nyaspubs.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1749-6632.1989.tb15057.x
-
 
 - title: "Behavioral Use Licensing for Responsible AI"
   authors:
@@ -231,8 +229,7 @@
       link: https://dl.acm.org/doi/pdf/10.1145/3531146.3533143
 
 - title: "On the Standardization of Behavioral Use Clauses and Their Adoption for Responsible Licensing of AI"
-  authors: Daniel McDuff, Tim Korjakow, Scott Cambo, Jesse Josua Benjamin, Jenny Lee, Yacine Jernite
-Carlos Munoz Ferrandis, Aaron Gokaslan, Alek Tarkowski, Joseph Lindley, A. Feder Cooper, Danish Contractor
+  authors: Daniel McDuff, Tim Korjakow, Scott Cambo, Jesse Josua Benjamin, Jenny Lee, Yacine Jernite, Carlos Munoz Ferrandis, Aaron Gokaslan, Alek Tarkowski, Joseph Lindley, A. Feder Cooper, Danish Contractor
   publisher: arXiv
   year: 2024
   tags:
@@ -246,5 +243,3 @@ Carlos Munoz Ferrandis, Aaron Gokaslan, Alek Tarkowski, Joseph Lindley, A. Feder
   tags:
     - tag: Online
       link: https://oecd.ai/en/wonk/rails-licenses-trustworthy-ai
-
-
