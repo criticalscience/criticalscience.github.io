@@ -16,7 +16,9 @@ permalink: /events
   {% endif %}
 {% endfor %}
 
-Currently, the sessions of the reading groups take place every other Friday at 16:00 at Mila.
+Currently, the sessions of the reading group take place every other Friday at 16:00 at Mila.
+
+By attending the sessions of the reading group, participants are requested to follow the [Berlin Code of Conduct](https://berlincodeofconduct.org/en).
 
 ## Coming up
 {% assign events = future_events | sort: 'date' %}
