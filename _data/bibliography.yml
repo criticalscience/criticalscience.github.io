@@ -243,3 +243,51 @@
   tags:
     - tag: Online
       link: https://oecd.ai/en/wonk/rails-licenses-trustworthy-ai
+
+- title: "From economy of occupation to economy of genocide"
+  authors: Francesca Albanese
+  publisher: Human Rights Council, United Nations
+  year: 2025
+  tags:
+    - tag: Report
+      link: https://www.un.org/unispal/document/a-hrc-59-23-from-economy-of-occupation-to-economy-of-genocide-report-special-rapporteur-francesca-albanese-palestine-2025/
+
+- title: "Exposing Canadian military exports to Israel"
+  authors: Multiple authors from various organisations
+  publisher: Arms Embargo Now
+  year: 2025
+  tags:
+    - tag: Report
+      link: https://armsembargonow.ca/wp-content/uploads/2025/07/Exposing-Canadian-Military-Exports-to-Israel_07292025_compressed-.pdf
+
+- title: "AI art and its impact on artists"
+  authors: Harry H. Jiang, Lauren Brown, Jessica Cheng, Mehtab Khan, Abhishek Gupta, Deja Workman, Alex Hanna, Johnathan Flowers, Timnit Gebru
+  publisher: Arms Embargo Now
+  year: 2023
+  tags:
+    - tag: Article
+      link: https://dl.acm.org/doi/10.1145/3600211.3604681
+
+- title: "How scientists can contribute to the social movements essential to protecting climate and nature"
+  authors: Abigail J. Perrin, Stuart Capstick, Tracey Elliott, Peter Knapp, Aaron Thierry, Tristram D. Wyatt, Charlie J. Gardner 
+  publisher: npj Climate Action
+  year: 2023
+  tags:
+    - tag: Article
+      link: https://www.nature.com/articles/s44168-025-00268-9
+
+- title: "The steep cost of capture"
+  authors: Meredith Whittaker
+  publisher: ACM Interactions
+  year: 2021
+  tags:
+    - tag: Article
+      link: https://dl.acm.org/doi/abs/10.1145/3488666
+
+- title: "Dismantling AI capitalism: the commons as an alternative to the power concentration of Big Tech"
+  authors: Pieter Verdegem
+  publisher: AI & Society
+  year: 2022
+  tags:
+    - tag: Article
+      link: https://link.springer.com/article/10.1007/s00146-022-01437-8
