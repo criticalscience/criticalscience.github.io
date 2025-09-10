@@ -16,7 +16,7 @@ permalink: /events
   {% endif %}
 {% endfor %}
 
-Currently, the sessions of the reading group take place every other Friday at 16:00 at Mila.
+Currently, the sessions of the reading group take place every other Friday at 16:00 at Mila. Starting in the fall semester 2025, we will also host some sessions on Wednesdays at 13:00, in order to facilitate the attendance of folks who cannot make it on Fridays.
 
 By attending the sessions of the reading group, participants are requested to follow the [Berlin Code of Conduct](https://berlincodeofconduct.org/en).
 

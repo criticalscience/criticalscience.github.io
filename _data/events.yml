@@ -116,4 +116,40 @@
       link: https://sci-hub.st/https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.1989.tb15057.x
       type: Article
 
+- id: genocide-sep25
+  name: Human rights in Palestine and Canada's implication
+  date: 2025-09-12
+  materials:
+    - name: "From economy of occupation to economy of genocide"
+      link: https://www.un.org/unispal/document/a-hrc-59-23-from-economy-of-occupation-to-economy-of-genocide-report-special-rapporteur-francesca-albanese-palestine-2025/
+      type: Report
+    - name: "Exposing Canadian military exports to Israel"
+      link: https://armsembargonow.ca/wp-content/uploads/2025/07/Exposing-Canadian-Military-Exports-to-Israel_07292025_compressed-.pdf
+      type: Report
 
+- id: genocide-sep25
+  name: The impact of AI on artists
+  date: 2025-09-26
+  materials:
+    - name: "AI art and its impact on artists"
+      link: https://dl.acm.org/doi/10.1145/3600211.3604681
+      type: Article
+
+- id: role-scientists-climate
+  name: The role of scientists in climate action
+  date: 2025-10-08
+  materials:
+    - name: "How scientists can contribute to the social movements essential to protecting climate and nature"
+      link: https://www.nature.com/articles/s44168-025-00268-9
+      type: Article
+
+- id: ai-capitalism
+  name: AI, capitalism and big tech
+  date: 2025-10-24
+  materials:
+    - name: "Dismantling AI capitalism: the commons as an alternative to the power concentration of Big Tech"
+      link: https://link.springer.com/article/10.1007/s00146-022-01437-8
+      type: Article
+    - name: "The steep cost of capture"
+      link: https://dl.acm.org/doi/abs/10.1145/3488666
+      type: Article
