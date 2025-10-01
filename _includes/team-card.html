@@ -1,0 +1,39 @@
+
+<div class="columns container">
+  <div class="column is-one-fifth"></div>
+  <div class="column">
+    <div class="card">
+      <div class="card-content">
+        <div class="media">
+          <div class="media-left">
+            <figure class="image is-128x128">
+              {% if person.photo != "none" %}
+              <img src="assets/images/team/{{ person.photo }}" alt="{{ person.alttext }}">
+              {% endif %}
+            </figure>
+          </div>
+          <div class="media-content">
+            <p class="title is-4">{{ person.fullname }}</p>
+            <p class="subtitle is-6">{{ person.pronouns }}</p>
+            <p class="subtitle is-5">{{ person.affiliation }}</p>
+          </div>
+        </div>
+        <div class="content">
+          {% if person.bio %}
+            <p>{{ person.bio }}</p>
+          {% endif %}
+          {% if person.email %}
+            <a class="tag">{{ person.email }}</a>
+          {% endif %}
+          {% if person.website %}
+            <a class="tag" href="{{ person.website }}">Website</a>
+          {% endif %}
+          {% if person.bluesky %}
+            <a class="tag" href="{{ person.bluesky }}">BlueSky</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+	</div>
+  <div class="column is-one-fifth"></div>
+</div>
