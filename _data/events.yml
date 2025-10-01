@@ -153,3 +153,19 @@
     - name: "The steep cost of capture"
       link: https://dl.acm.org/doi/abs/10.1145/3488666
       type: Article
+
+- id: tbd2
+  name: TBD
+  date: 2025-11-19
+
+- id: military-ai-research-funding
+  name: Military AI research funding
+  date: 2025-12-05
+  materials:
+    - name: "Basic research, lethal effects: Military AI research funding as enlistment"
+      link: https://arxiv.org/abs/2411.17840?
+      type: Article
+
+- id: tbd3
+  name: TBD
+  date: 2025-12-17
