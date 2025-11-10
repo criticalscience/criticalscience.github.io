@@ -107,6 +107,9 @@
     - name: "Responsible AI licenses: a practical tool for implementing the OECD Principles for Trustworthy AI"
       link: https://oecd.ai/en/wonk/rails-licenses-trustworthy-ai
       type: Blog post
+    - name: "Slides"
+      link: ./assets/pdf/slides_rail.pdf
+      type: Slides
       
 - id: military-moral
   name: Military Funds, Moral Demands
