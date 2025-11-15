@@ -170,9 +170,25 @@
       type: Article
 
 - id: paul-schuetze
-  name: "Paul Schütze (invited speaker): The Problem of Sustainable AI"
+  name: "Invited speaker: Paul Schütze, The Problem of Sustainable AI"
   date: 2025-12-17
   materials:
     - name: "The problem of sustainable aI: A critical assessment of an emerging phenomenon"
       link: https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_1_4
       type: Article
+
+- id: right-to-ai
+  name: "Invited speakers: Rashid Mushkani and Hugo Berard, The Right to AI"
+  date: 2026-01-07
+  materials:
+    - name: "Position: The Right to AI"
+      link: https://proceedings.mlr.press/v267/mushkani25b.html
+      type: Article
+
+- id: empire-of-ai
+  name: "Empire of AI"
+  date: 2026-02-06
+  materials:
+    - name: "Empire of AI, by Karen Hao - Chapters 9 and 12"
+      link: https://en.wikipedia.org/wiki/Empire_of_AI
+      type: Book
