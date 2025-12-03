@@ -159,7 +159,7 @@
 
 - id: military-ai-research-funding
   name: Military AI research funding
-  date: 2025-12-05
+  date: 2025-12-10
   materials:
     - name: "Basic research, lethal effects: Military AI research funding as enlistment"
       link: https://arxiv.org/abs/2411.17840?
