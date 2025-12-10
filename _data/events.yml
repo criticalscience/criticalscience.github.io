@@ -157,14 +157,6 @@
       link: https://dl.acm.org/doi/abs/10.1145/3488666
       type: Article
 
-- id: military-ai-research-funding
-  name: Military AI research funding
-  date: 2025-12-10
-  materials:
-    - name: "Basic research, lethal effects: Military AI research funding as enlistment"
-      link: https://arxiv.org/abs/2411.17840?
-      type: Article
-
 - id: reclaiming-epistemic-diversity
   name: Reclaiming Epistemic Diversity
   date: 2025-11-19
@@ -187,6 +179,14 @@
   materials:
     - name: "Position: The Right to AI"
       link: https://proceedings.mlr.press/v267/mushkani25b.html
+      type: Article
+
+- id: military-ai-research-funding
+  name: Military AI research funding
+  date: 2026-01-28
+  materials:
+    - name: "Basic research, lethal effects: Military AI research funding as enlistment"
+      link: https://arxiv.org/abs/2411.17840?
       type: Article
 
 - id: empire-of-ai
