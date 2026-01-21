@@ -173,22 +173,6 @@
       link: https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_1_4
       type: Article
 
-- id: right-to-ai
-  name: "Invited speakers: Rashid Mushkani and Hugo Berard, The Right to AI"
-  date: 2026-01-14
-  materials:
-    - name: "Position: The Right to AI"
-      link: https://proceedings.mlr.press/v267/mushkani25b.html
-      type: Article
-
-- id: military-ai-research-funding
-  name: Military AI research funding
-  date: 2026-01-28
-  materials:
-    - name: "Basic research, lethal effects: Military AI research funding as enlistment"
-      link: https://arxiv.org/abs/2411.17840?
-      type: Article
-
 - id: empire-of-ai
   name: "Empire of AI"
   date: 2026-02-06
@@ -196,3 +180,27 @@
     - name: "Empire of AI, by Karen Hao - Chapters 9 and 12"
       link: https://en.wikipedia.org/wiki/Empire_of_AI
       type: Book
+
+- id: irresponsible-ai-big-tech
+  name: Irresponsible AI
+  date: 2026-02-20
+  materials:
+    - name: "Irresponsible AI: big tech's influence on AI research and associated impacts - by Mila friends"
+      link: https://arxiv.org/abs/2512.03077
+      type: Article
+
+- id: right-to-ai
+  name: "Invited speakers: Rashid Mushkani and Hugo Berard, The Right to AI"
+  date: 2026-03-07
+  materials:
+    - name: "Position: The Right to AI"
+      link: https://proceedings.mlr.press/v267/mushkani25b.html
+      type: Article
+
+- id: military-ai-research-funding
+  name: Military AI research funding
+  date: 2026-03-20
+  materials:
+    - name: "Basic research, lethal effects: Military AI research funding as enlistment"
+      link: https://arxiv.org/abs/2411.17840?
+      type: Article
