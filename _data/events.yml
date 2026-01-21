@@ -181,20 +181,20 @@
       link: https://en.wikipedia.org/wiki/Empire_of_AI
       type: Book
 
-- id: irresponsible-ai-big-tech
-  name: Irresponsible AI
-  date: 2026-02-20
-  materials:
-    - name: "Irresponsible AI: big tech's influence on AI research and associated impacts - by Mila friends"
-      link: https://arxiv.org/abs/2512.03077
-      type: Article
-
 - id: right-to-ai
   name: "Invited speakers: Rashid Mushkani and Hugo Berard, The Right to AI"
-  date: 2026-03-07
+  date: 2026-02-20
   materials:
     - name: "Position: The Right to AI"
       link: https://proceedings.mlr.press/v267/mushkani25b.html
+      type: Article
+
+- id: irresponsible-ai-big-tech
+  name: Irresponsible AI
+  date: 2026-03-07
+  materials:
+    - name: "Irresponsible AI: big tech's influence on AI research and associated impacts - by Mila friends"
+      link: https://arxiv.org/abs/2512.03077
       type: Article
 
 - id: military-ai-research-funding
