@@ -197,10 +197,10 @@
       link: https://arxiv.org/abs/2512.03077
       type: Article
 
-- id: empire-of-ai
-  name: "Empire of AI"
-  date: 2026-03-20
-  materials:
-    - name: "Empire of AI, by Karen Hao - Chapters 9 and 12"
-      link: https://en.wikipedia.org/wiki/Empire_of_AI
-      type: Book
+        # - id: empire-of-ai
+        #   name: "Empire of AI"
+        #   date: 2026-03-20
+        #   materials:
+        #     - name: "Empire of AI, by Karen Hao - Chapters 9 and 12"
+        #       link: https://en.wikipedia.org/wiki/Empire_of_AI
+        #       type: Book
