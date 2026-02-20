@@ -110,6 +110,17 @@
     - tag: Science for the People
       link: https://magazine.scienceforthepeople.org/lewontin-special-issue/richard-lewontin-dialectical-materialism-the-relationship-between-evolutionary-biology-and-marxism/
 
+- title: "Reclaiming epistemic diversity: between community struggles and corporate capture"
+  authors:
+    - David Ludwig
+    - Fabio Gatti
+    - Esther Milberg Muñiz
+  publisher: "Science for the People Magazine. Volume 26, no. 2 Ways of Knowing"
+  year: 2023
+  tags:
+    - tag: Science for the People
+      link: https://magazine.scienceforthepeople.org/vol26-2-ways-of-knowing/reclaiming-epistemic-diversity-corporate-capture/
+
 - title: "The Folly of Apolitical Science"
   authors:
     - Johnathan Flowers
@@ -291,3 +302,27 @@
   tags:
     - tag: Article
       link: https://link.springer.com/article/10.1007/s00146-022-01437-8
+
+- title: "Position: The Right to AI"
+  authors: Rashid Mushkani, Hugo Berard, Allison Cohen, Shin Koseki
+  publisher: ICML
+  year: 2025
+  tags:
+    - tag: Article
+      link: https://proceedings.mlr.press/v267/mushkani25b.html
+
+- title: "Basic Research, Lethal Effects: Military AI Research Funding as Enlistment"
+  authors: David Gray Widder, Sireesh Gururaja, Lucy Suchman
+  publisher: arXiv
+  year: 2024
+  tags:
+    - tag: Article
+      link: https://arxiv.org/abs/2411.17840?
+
+- title: "The Problem of Sustainable AI"
+  authors: Paul Schütze
+  publisher: Weizenbaum Journal
+  year: 2024
+  tags:
+    - tag: Article
+      link: https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_1_4
