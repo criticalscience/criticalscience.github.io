@@ -189,9 +189,17 @@
       link: https://proceedings.mlr.press/v267/mushkani25b.html
       type: Article
 
+- id: data-feminism-for-ai
+  name: Data Feminism for AI
+  date: 2026-03-06
+  materials:
+    - name: "Data Feminism for AI"
+      link: https://arxiv.org/abs/2405.01286
+      type: Article
+
 - id: irresponsible-ai-big-tech
   name: Irresponsible AI
-  date: 2026-03-07
+  date: 2026-03-20
   materials:
     - name: "Irresponsible AI: big tech's influence on AI research and associated impacts - by Mila friends"
       link: https://arxiv.org/abs/2512.03077
