@@ -326,3 +326,11 @@
   tags:
     - tag: Article
       link: https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_1_4
+
+- title: "Data Feminism for AI"
+  authors: Lauren Klein, Catherine D'Ignazio
+  publisher: ACM Conference on Fairness, Accountability, and Transparency (FAccT)
+  year: 2024
+  tags:
+    - tag: Article
+      link: https://arxiv.org/abs/2405.01286
