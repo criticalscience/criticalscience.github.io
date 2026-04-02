@@ -205,6 +205,14 @@
       link: https://arxiv.org/abs/2512.03077
       type: Article
 
+- id: how-to-blow-up-ai-supply-chain
+  name: Invited speakers: David Widder, "How to blow up an AI supply chain: work in progress"
+  date: 2026-04-10
+  materials:
+    - name: "How to blow up an AI supply chain: work in progress"
+      link: http://davidwidder.me
+      type: Special talk
+
         # - id: empire-of-ai
         #   name: "Empire of AI"
         #   date: 2026-03-20
