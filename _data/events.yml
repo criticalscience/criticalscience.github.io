@@ -206,12 +206,12 @@
       type: Article
 
 - id: how-to-blow-up-ai-supply-chain
-  name: Invited speakers: David Widder, "How to blow up an AI supply chain: work in progress"
+  name: "Invited speaker: David Gray Widder, How to blow up an AI supply chain: work in progress"
   date: 2026-04-10
   materials:
     - name: "How to blow up an AI supply chain: work in progress"
       link: http://davidwidder.me
-      type: Special talk
+      type: Personal website
 
         # - id: empire-of-ai
         #   name: "Empire of AI"
