@@ -213,6 +213,15 @@
       link: http://davidwidder.me
       type: Personal website
 
+- id: climate-obstruction-politics-ai
+  name: "Invited speaker: Sonja Solomun, Climate obstruction and the politics of AI"
+  date: 2026-05-20
+  materials:
+    - name: "Centre for Media, Technology and Democracy"
+      link: https://www.mediatechdemocracy.com/centre-staff
+      type: Group website
+
+
         # - id: empire-of-ai
         #   name: "Empire of AI"
         #   date: 2026-03-20
