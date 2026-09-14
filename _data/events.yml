@@ -221,6 +221,14 @@
       link: https://www.mediatechdemocracy.com/centre-staff
       type: Group website
 
+- id: tech-workers-resistance
+  name: "Tech workers' resistance"
+  date: 2026-09-18
+  materials:
+    - name: "$100,000 or the robot gets it! Tech workers' resistance guide: Tech worker actions, history, risks, impacts, and the case for a radical flank"
+      link: https://arxiv.org/abs/2508.08084
+      type: Article
+
 
         # - id: empire-of-ai
         #   name: "Empire of AI"
