@@ -229,6 +229,13 @@
       link: https://arxiv.org/abs/2508.08084
       type: Article
 
+- id: paris-marx
+  name: "Invited speaker: Paris Marx, Hyperscale: The ambition and excess of big tech’s data empires"
+  date: 2026-10-23
+  materials:
+    - name:  "Hyperscale: The ambition and excess of big tech’s data empires"
+      link: https://hyperscalebook.com/
+      type: Book website
 
         # - id: empire-of-ai
         #   name: "Empire of AI"
