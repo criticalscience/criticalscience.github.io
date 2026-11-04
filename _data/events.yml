@@ -244,3 +244,10 @@
         #     - name: "Empire of AI, by Karen Hao - Chapters 9 and 12"
         #       link: https://en.wikipedia.org/wiki/Empire_of_AI
         #       type: Book
+- id: cost-of-ethics
+  name: "Invited Speaker: Mohamed Abdalla, Cost-of-Ethics Crisis in the Job Search of Computer Science Students"
+  date: 2026-11-06
+  materials:
+    - name: "Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States"
+      link: https://arxiv.org/abs/2605.09680
+      type: Article
