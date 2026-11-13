@@ -238,10 +238,10 @@
       type: Book website
 
 - id: cost-of-ethics
-  name: "Invited Speaker: Mohamed Abdalla, Cost-of-Ethics Crisis in the Job Search of Computer Science Students"
+  name: "Invited Speaker: Mohamed Abdalla, Cost-of-ethics crisis in the job search of computer science students"
   date: 2026-11-06
   materials:
-    - name: "Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States"
+    - name: "Cost-of-ethics crisis: Beliefs, decisions, and justifications in the job searches of computer science students in Canada and the United States"
       link: https://arxiv.org/abs/2605.09680
       type: Article
 
