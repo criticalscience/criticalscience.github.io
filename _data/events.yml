@@ -237,13 +237,6 @@
       link: https://hyperscalebook.com/
       type: Book website
 
-        # - id: empire-of-ai
-        #   name: "Empire of AI"
-        #   date: 2026-03-20
-        #   materials:
-        #     - name: "Empire of AI, by Karen Hao - Chapters 9 and 12"
-        #       link: https://en.wikipedia.org/wiki/Empire_of_AI
-        #       type: Book
 - id: cost-of-ethics
   name: "Invited Speaker: Mohamed Abdalla, Cost-of-Ethics Crisis in the Job Search of Computer Science Students"
   date: 2026-11-06
@@ -251,3 +244,19 @@
     - name: "Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States"
       link: https://arxiv.org/abs/2605.09680
       type: Article
+
+- id: ai-corporate-structure
+  name: "Invited Speaker: Maroussia Lévesque, Public good or private gain? Corporate structure and mission accountability at leading ai companies"
+  date: 2026-12-04
+  materials:
+    - name: "AI Now: Guest Report on AI Corporate Structure and Mission Accountability"
+      link: https://ainowinstitute.org/news/coming-soon-guest-report-on-ai-corporate-structure-and-mission-accountability
+      type: Abstract
+
+# - id: empire-of-ai
+#   name: "Empire of AI"
+#   date: 2026-03-20
+#   materials:
+#     - name: "Empire of AI, by Karen Hao - Chapters 9 and 12"
+#       link: https://en.wikipedia.org/wiki/Empire_of_AI
+#       type: Book
