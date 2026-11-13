@@ -245,6 +245,25 @@
       link: https://arxiv.org/abs/2605.09680
       type: Article
 
+- id: against-tech-oligarchy
+  name: "Invited Speakers: JS Tan and Clarissa Redwine, Against tech oligarchy"
+  date: 2026-11-20
+  materials:
+    - name: "Against tech oligarchy: Worker resistance in the world's most powerful industry"
+      link: https://againsttecholigarchy.com/
+      type: Book
+    - name: "Why the postpandemic tech bust sent billionaires to trump, Wired"
+      link: https://www.wired.com/story/against-tech-oligarchy-book-excerpt-trump-billionaries/
+      type: Article
+  abstract: |
+     After Donald Trump's election in 2016, the tech industry sprang into action to oppose his right-wing agenda, with workers and CEOs alike joining mass mobilizations against the new president's anti-immigrant policies. But it wasn't long before the tech bosses started to fall in line with the new administration.
+
+     In response, tens of thousands of tech workers protested against their own employers for betraying the progressive values that once defined the industry—including organizing against military contracts, walking out to protest sexism, and even launching a wave of union drives. By the early 2020s, these workers had sparked what observers were calling the tech worker movement, one that seemed capable of checking the industry's reckless growth and reactionary drift.
+
+     But as their struggle grew, so did the employers' backlash. A new class consciousness took root among tech's billionaire owners. Hell-bent on stamping out any and all dissent, tech executives embraced Trumpism, fired organizers, and began lashing out against the "woke" ideology they blamed for turning their once loyal employees against them—and replacing the good tech jobs of the 2010s with incessant layoffs, grind culture, and a management style that treats workers as disposable.
+
+     Against Tech Oligarchy provides a gripping account of this inspiring workers' movement and the rise of the hostile labor politics that define Silicon Valley today.
+
 - id: ai-corporate-structure
   name: "Invited Speaker: Maroussia Lévesque, Public good or private gain? Corporate structure and mission accountability at leading ai companies"
   date: 2026-12-04
