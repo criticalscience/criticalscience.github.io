@@ -27,4 +27,10 @@
      {% endfor %}
     </ul>
   {% endif %}
+  {% if event.abstract %}
+    <details>
+      <summary><b>Abstract</b></summary>
+      {{ event.abstract | markdownify }}
+    </details>
+  {% endif %}
 </div>
